@@ -1,0 +1,667 @@
+#MenuBar{
+    padding-bottom: 70px;
+}
+#AudioM4{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: arial;
+    padding-left: 80px;
+    float: left;
+}
+#menutags{
+    padding-top: 20px;
+    padding-left: 200px;
+    float: left;
+}
+.tags{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: arial;
+    float: left;
+}
+#buynow{
+    font-size: 24px;
+    margin-left: 50px;
+    margin-top: -10px;
+    background-color:#d27623;
+    color: black;
+    border-radius: 10px;
+    padding: 5px 15px;
+    text-decoration: none;
+    box-shadow: 7px 5px 10px #000000c4;
+}
+#bestpartydj{
+    background-image: url(https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    background-color: #ffffff3b;
+    background-blend-mode: darken;
+        
+}
+#bestpartydj p{
+    font-size: 150px;
+    color: rgb(245, 228, 0);
+    font-weight: 700;
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 70px;
+    text-shadow: -2px 7px 10px white;
+}
+#bestpartydj p span{
+    font-size: 150px;
+    color: white;
+}
+#musicwriter{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 650px;
+}
+#musicwriterheading{
+    padding-bottom: 50px;
+}
+#musicwriterheading p{
+    font-family: arial;
+    color: #5b5b5b;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+#musicwriterheading p span{
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    color: black;
+    text-shadow: -6px 5px 5px #5e5959de;
+    line-height: 100px;
+    background-color: darkgray;
+    box-shadow: 0px 8px 6px black;
+}
+#everythingimage{
+    background-image:url(https://images.pexels.com/photos/144428/pexels-photo-144428.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    color: white;
+    padding-top: 400px;
+    padding-bottom: 200px;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: 30%;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: -1px 1px 5px white;
+    float: left;
+    margin-left: 120px;
+}
+#everything{
+    padding-left: 50px;
+    padding-top: 50px;
+    width: 35%;
+    float: left;
+    text-align: left;
+}
+#everything h1{
+    font-family: arial;
+    color: #000000;
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    text-shadow: -5px 3px 3px #df7a0a;
+}
+#everything p{
+    font-family: arial;
+    color: #5b5b5b;
+    line-height: 30px;
+}
+#everything a{
+    padding:10px 20px;
+    font-size: 24px;
+    background-color:#d27623;
+    border-style: none;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    box-shadow: 7px 5px 10px #000000c4;
+    line-height: 150px;
+}
+#everything h3{
+    margin-top: 30px;
+    font-family: arial;
+    font-size: 30px;
+}
+#everything i{
+    margin-right:30px ;
+    padding-bottom: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#clubpictures{
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 600px;
+    clear: both;
+}
+.clubimage1{
+    background-image: url(https://images.pexels.com/photos/2147029/pexels-photo-2147029.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 25%;
+    float: left;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.clubimage2{
+    background-image: url(https://images.pexels.com/photos/1694900/pexels-photo-1694900.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-color: aqua;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 25%;
+    float: left;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.clubimage3{
+    background-image: url(https://images.pexels.com/photos/838702/pexels-photo-838702.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-color: aqua;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 25%;
+    float: left;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.clubimage4{
+    background-image: url(https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-color: aqua;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 25%;
+    float: left;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.clubimageparas{
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgba(255, 255, 255, 0.582);
+    color: black;
+    cursor: pointer;
+}
+
+#aboutme{
+    text-align: center;
+    padding-top: 100px;
+}
+#aboutme h4{
+    font-weight: 100;
+    text-transform: full-width;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 12px;
+}
+#aboutme h1{
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color: darkgray;
+}
+#aboutme p span{
+    text-transform: capitalize;
+    word-spacing: 10px;
+    color: black;
+    line-height: 30px;
+}
+#aboutme p{
+    font-family: arial;
+    color: darkgray;
+    padding: 10px 300px 40px 300px;
+    margin: 0px;
+}
+#aboutmeinfo{
+    background-image: url(https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    width: 100%;
+    background-size: cover;
+}
+#aboutmeinfo p{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    padding-bottom: 600px;
+    text-transform: uppercase;
+    font-family: mv boli;
+    font-weight: 600;
+}
+#discography{
+    padding-top: 100px;
+}
+#discography h4{
+    font-weight: 100;
+    text-transform: full-width;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 12px;
+    text-align: center;
+}
+#discography h1{
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px; 
+    text-align: center;
+    padding-bottom: 20px;
+}
+#djsetsongs{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 650px;
+}
+.djsong1{
+    background-image: url(https://images.pexels.com/photos/7088382/pexels-photo-7088382.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    width: 30%;
+    padding-top: 400px;
+    padding-bottom: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float:left;
+    margin-left: 30px;
+    margin-right: 20px;
+    
+}
+.djsong1 p a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+}
+.djsong1 p{
+    padding-left: 20px;
+    background-color: #a52a2aa3;
+}
+.djsong2{
+    background-image: url(https://images.pexels.com/photos/7088040/pexels-photo-7088040.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    width: 30%;
+    padding-top: 400px;
+    padding-bottom: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float:left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.djsong2 p a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+}
+.djsong2 p{
+    padding-left: 20px;
+    background-color: #a52a2aa3;
+}
+.djsong3{
+    background-image: url(https://images.pexels.com/photos/7090866/pexels-photo-7090866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    width: 30%;
+    padding-top: 400px;
+    padding-bottom: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float:left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.djsong3 p a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+}
+.djsong3 p{
+    padding-left: 20px;
+    background-color: #a52a2aa3;
+}
+#updates{
+    background-image: url(https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    padding-bottom: 100px;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+#updates h1{
+    text-align: center;
+    color: white;
+}
+#updates h1 span{
+    font-size: 64px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-family: arial;
+}
+#emailsection{
+    border-style: solid;
+    border-color: white;
+    color: white;
+    padding-bottom: 200px;
+    padding-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #ffffff21;
+}
+#emailsec{
+    width: 40%;
+    float: left;
+    background-color: #ffffffc4;
+    color: black;
+    box-shadow: 10px 7px 10px black;
+    border-bottom-right-radius: 85px;
+    border-top-right-radius: 85px;
+}
+#emailsec p{
+    font-size: 16px;
+    text-transform: capitalize;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
+#emailsec h2{
+    font-size: 30px;
+    text-transform: capitalize;
+    padding-left: 60px;
+}
+#emailsearch{
+    float: left;
+    padding-top: 55px;
+    padding-left: 70px;
+}
+#emailsearch input{
+    background-color: #f5deb3;
+    padding: 15px 100px;
+    border-radius: 10px;
+    color: black;
+    border: none;
+    font-size: 15px;
+    box-shadow: 10px 7px 10px black;
+}
+#emailsearch button{
+    padding:15px 30px;
+    background-color: tomato;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-size: 15px;
+    margin-left: 70px;
+    box-shadow: 10px 7px 10px black;
+}
+#emailsearch button a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#lastsec{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+#lastsec h1{
+    font-family: arial;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+#socialicons{
+    font-size: 20px;
+    word-spacing: 15px;
+    padding-bottom: 20px;
+}
+#lastsec p{
+    font-size: 16px;
+    font-family: arial;
+    padding-bottom: 10px;
+    margin:0px;
+}
+#lastsec p span{
+    padding-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:480px){
+    #Menubar{
+        padding-bottom: 120px;
+    }
+
+    #AudioM4{
+        padding-left: 100px;
+    }
+    #menutags{
+        padding-top: 20px;
+        padding-left: 5px;
+        float: left;
+    }
+    .tags{
+        padding-left: 10px;
+        padding-right: 10px;
+        text-decoration: none;
+        color: black;
+        font-size: 14px;
+        font-family: arial;
+        float: left;
+    }
+    #buynow{
+        font-size: 18px;
+        background-color:#d27623;
+        color: black;
+        border-radius: 10px;
+        padding: 5px 10px;
+        text-decoration: none;
+        box-shadow: 7px 5px 10px #000000c4;
+        float: right;
+        margin-left: 25px;
+    }
+    #bestpartydj p{
+        font-size: 100px;
+    }
+    #bestpartydj p span{
+        font-size: 100px;
+    }
+    #musicwriter{
+        text-align: center;
+        padding-top: 80px;
+        padding-bottom: 650px;
+    }
+    #musicwriterheading{
+        padding-bottom: 50px;
+    }
+    #musicwriterheading p{
+        padding:0px;
+    }
+    #musicwriterheading p span{
+        font-size: 55px;
+        font-weight: 500;
+        letter-spacing: 3px;
+        color: black;
+        text-shadow: -6px 5px 5px #5e5959de;
+        line-height: 80px;
+    }
+    #everythingimage{
+        padding-left: 120px;
+        padding-right: 120px;
+        margin-left: 30px;
+    }
+    #everything{
+        padding-left: 50px;
+        padding-top: 50px;
+        width: 85%;
+        float: left;
+        text-align: left;
+    }
+    #everything h1{
+        font-family: arial;
+        color: #000000;
+        font-size: 70px;
+        margin-top: 0px;
+        margin-bottom: 25px;
+        text-shadow: -5px 3px 3px #df7a0a;
+    }
+    #everything p{
+        font-family: arial;
+        color: #5b5b5b;
+        line-height: 30px;
+    }
+    #everything a{
+        margin-left: 70px;    
+    }
+    #everything h3{
+        margin-top: 0px;
+        padding-left: 110px;
+        padding-right: 110px;
+    }
+    #everything i{
+        font-size: 16px;
+    }
+    #clubpictures{
+        text-align: center;
+        padding-top: 120px;
+        padding-bottom: 600px;
+        clear: both;
+    }
+    .clubimage1{
+        width: 100%; 
+    }
+    .clubimage2{
+        width: 100%;
+    }
+    .clubimage3{
+        width: 100%;
+    }
+    .clubimage4{
+        width: 100%;
+    }
+    #aboutme{
+        clear: both;
+    }
+    #aboutme p span{
+        text-transform: capitalize;
+        word-spacing: 10px;
+        color: black;
+        line-height: 30px;
+    }
+    #aboutme p{
+        padding: 10px 20px 40px 20px;
+    }
+    #aboutmeinfo{
+        width: 100%;
+        height: 280px;
+    }
+    #aboutmeinfo p{
+        font-size: 20px;
+        padding-top: 0px;
+    }
+
+    
+    #discography{
+        padding-top: 100px;
+    }
+    #discography h4{
+        font-weight: 100;
+        text-transform: full-width;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        font-size: 12px;
+        text-align: center;
+    }
+    #discography h1{
+        font-size: 60px;
+        margin-bottom: 0px;
+        margin-top: 0px; 
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    #djsetsongs{
+        background-color: black;
+        padding-top: 50px;
+        padding-bottom: 650px;
+    }
+    .djsong1{
+        background-image: url(pic/video/pexels-1481312.png);
+        width: 30%;
+        padding-top: 400px;
+        padding-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        float:left;
+        margin-left: 30px;
+        margin-right: 20px;
+        
+    }
+    .djsong1 p a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-size: 34px;
+    }
+    .djsong1 p{
+        padding-left: 20px;
+        background-color: #a52a2aa3;
+    }
+    .djsong2{
+        background-image: url(pic/video/pexels-838702.png);
+        width: 30%;
+        padding-top: 400px;
+        padding-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        float:left;
+        margin-left: 20px;
+        margin-right: 20px;
+        
+    }
+    .djsong2 p a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-size: 34px;
+    }
+    .djsong2 p{
+        padding-left: 20px;
+        background-color: #a52a2aa3;
+    }
+    .djsong3{
+        background-image: url(pic/video/pexels-426976.png);
+        width: 30%;
+        padding-top: 400px;
+        padding-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        float:left;
+        margin-left: 20px;
+        margin-right: 20px;
+        
+    }
+    .djsong3 p a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-size: 34px;
+    }
+    .djsong3 p{
+        padding-left: 20px;
+        background-color: #a52a2aa3;
+    }
+}
